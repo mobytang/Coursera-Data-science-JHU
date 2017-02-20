@@ -1,0 +1,8 @@
+<p>data ：  raw data  & processed data</p>
+
+<p>we should have a code book to explain the meaning of the variables of every column ,also say it,meta data
+</p>
+<p>3 steps to do data analysis:
+  <li>data collection </li>
+  <li>data process</li>
+  <li>data analysis</li>
