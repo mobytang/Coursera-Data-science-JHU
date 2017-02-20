@@ -1,4 +1,4 @@
-# Data-science--JHU-Coursera
+# Coursera-Data-science-JHU
 This is the my notes and related codes about this specilization courses
 
 This seris conclude 9 courses and a capstone
